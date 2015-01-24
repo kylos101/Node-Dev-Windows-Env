@@ -1,0 +1,6 @@
+# Node-Dev-Windows-Env
+Assuming you have this repo copied to your local PC...
+Run setup.bat from an elevated command prompt to setup a basic Node dev environment in Windows.
+
+# Notes
+The command prompt settings don't work quite right...
