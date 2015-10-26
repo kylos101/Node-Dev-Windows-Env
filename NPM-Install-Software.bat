@@ -1,3 +1,4 @@
-npm install grunt -g
-npm install grunt-cli -g
-npm install nodemon -g
+npm install -g grunt
+npm install -g grunt-cli
+npm install -g nodemon
+npm install -g cordova
