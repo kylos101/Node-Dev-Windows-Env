@@ -5,7 +5,7 @@ choco install github -y
 choco install virtualbox -y
 choco install virtualbox.extensionpack -y
 choco install vagrant -ys
-REM Zeal
+choco install velocity -y
 REM Azure emulators
 cmd /C "atom-packages\apm-install.bat"
-REM Zeal documentation
+
